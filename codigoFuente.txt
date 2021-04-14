@@ -3,3 +3,4 @@ Bienvenido a git
 Cristofer Chavez
 
 - Resido en Lima - Zarate
+- Programador Java
